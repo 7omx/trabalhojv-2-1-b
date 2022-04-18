@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;.metadata&apos; to &apos;trabalhoq3.java&apos;&#x0D;&#x0A;- Original project: &apos;trabalho java 1&apos;&#x0D;&#x0A;- Destination element: &apos;trabalhoq3.java&apos;&#x0D;&#x0A;- Original element: &apos;.metadata&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move folder" destination="/src&lt;{trabalhoq3.java" element1=".metadata" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1650317679987" units="0" version="1.0"/>
+</session>
